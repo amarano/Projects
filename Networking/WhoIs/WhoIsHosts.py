@@ -1,0 +1,22 @@
+__author__ = 'angelo'
+
+
+ABUSEHOST           = "whois.abuse.net"
+NICHOST             = "whois.crsnic.net"
+INICHOST            = "whois.networksolutions.com"
+DNICHOST            = "whois.nic.mil"
+GNICHOST            = "whois.nic.gov"
+ANICHOST            = "whois.arin.net"
+LNICHOST            = "whois.lacnic.net"
+RNICHOST            = "whois.ripe.net"
+PNICHOST            = "whois.apnic.net"
+MNICHOST            = "whois.ra.net"
+QNICHOST_TAIL       = ".whois-servers.net"
+SNICHOST            = "whois.6bone.net"
+BNICHOST            = "whois.registro.br"
+NORIDHOST           = "whois.norid.no"
+IANAHOST            = "whois.iana.org"
+GERMNICHOST         = "de.whois-servers.net"
+DEFAULT_PORT        = "nicname"
+WHOIS_SERVER_ID     = "Whois Server:"
+WHOIS_ORG_SERVER_ID = "Registrant Street1:Whois Server:"
